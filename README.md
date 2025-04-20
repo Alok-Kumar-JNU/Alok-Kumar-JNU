@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[jnu.ac.in](https://jnu.ac.in)
+
+![ZOOTOPIA](https://i.ndtvimg.com/i/2018-02/jnu_650x400_41518829867.jpg?downsize=773:435)
+
+
 <!--
 This is my readme File comment
 -->
