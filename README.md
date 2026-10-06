@@ -57,7 +57,6 @@ I enjoy exploring new places, learning from different disciplines, and understan
 
 ---
 
-![ZOOTOPIA](https://i.ndtvimg.com/i/2018-02/jnu_650x400_41518829867.jpg?downsize=773:435)
 
 <!--
 This is my README file.
